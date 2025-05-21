@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "notebook.jsnb",
+    "language_info": {
+      "name": "JavaScipt",
+      "version": "8.0"
+    }
+  },
+  "jsnbversion": "v0.1",
+  "cells": [
+    {
+      "code": "//first variable declare\nlet name = \"Aanchal\";\nconsole.log(name);\nscrib.show(name);\n\n//sum \n\nlet a =10;\nlet b = 20;\nscrib.show(a+b);\n\n\n//varibales 3 types\nlet age = 25;\nvar city = \"Delhi\";\nconst country = \"india\";\n\nscrib.show(age);\ncity = \"muzaffarnagar\"\nscrib.show(city);\n\nscrib.show(country);\n\n\nlet name1 = \"krrish\";\nscrib.show(name1)\n\n{\n  let x = 20;\n  scrib.show(x);\n}\n\nlet  y = 20;\nlet z = \"20\";\n\nscrib.show(y == z)\nscrib.show(y === z)\n\n",
+      "status": "[15]<br><span style=\"font-size:8px\">1ms<span></span></span>",
+      "output": "Aanchal <br>30 <br>25 <br>muzaffarnagar <br>india <br>krrish <br>20 <br>true <br>false <br>",
+      "type": "code"
+    }
+  ],
+  "source": "https://github.com/gopi-suvanam/scribbler",
+  "run_on_load": false
+}
